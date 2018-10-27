@@ -1,5 +1,5 @@
 <?php
-	$TRACKER=urlencode("https://localhost/torrent-client-tracker/"); //Remember to include the trailing slash here!
+	$TRACKER=urlencode("https://torrent-client-tracker.herokuapp.com/"); //Remember to include the trailing slash here!
 	// $db = new PDO("sqlite:ipmagnet.db3");
 	$enableInterval=false;
 	$trackerInterval=300;
